@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6.2</ApiVersion>
+  <Id>com.ramiforms.TranspositionShortcutBar</Id>
+  <Version>1.0</Version>
+  <Author>ramiforms</Author>
+  <Name>Transposition Shortcut Bar</Name>
+  <Category>Pattern Editor</Category>
+  <Description>Adds a small bar of note transposition shortcut buttons (+1, -1, +12, -12, +N, -N) for the current pattern selection, shown only while the Edit (pattern editor) screen is active. Toggle it via View &gt; Transposition Shortcut Bar. Tested with Renoise 3.5.4.</Description>
+  <Platform>Windows, Mac, Linux</Platform>
+  <License>MIT</License>
+</RenoiseScriptingTool>
