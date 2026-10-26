@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# Renoise writes the tool's saved settings into the bundle when it runs from
+# here. They are per-user and must not ship in the .xrnx.
+preferences.xml
+
+# Lua scratch output
+*.luac
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
